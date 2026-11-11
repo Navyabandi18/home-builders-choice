@@ -1,0 +1,19 @@
+
+# Private credentials
+config/razorpay.php
+config/db.php
+.env
+
+# Temporary and log files
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+
+# Temporary database testing file
+test_connection.php
