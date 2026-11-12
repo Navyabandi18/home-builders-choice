@@ -88,6 +88,23 @@ home_builders_choice/
 
 *Note: The structure above is illustrative. Update it to match the final project folders and files.*
 
+## 📸 Project Screenshots
+
+### Home Page
+![Home Page](screenshots/home.jpeg)
+
+### Login Page
+![Login Page](screenshots/login.jpeg)
+
+### Registration Page
+![Registration Page](screenshots/register.jpeg)
+
+### Products Page
+![Products Page](screenshots/products.jpeg)
+
+### Contact Page
+![Contact Page](screenshots/contact.jpeg)
+
 ## 🚀 Future Enhancements
 
 - Complete Razorpay payment gateway integration.
